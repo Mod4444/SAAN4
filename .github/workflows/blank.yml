@@ -40,15 +40,8 @@ jobs:
     - name: All Done! You can close Tab now! Maximum VM time:6h.
       run: cmd /c loop.bat 
 © 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
+
+
+
+
 
